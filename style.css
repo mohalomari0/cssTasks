@@ -1,0 +1,77 @@
+.task1 .a{
+    color: blueviolet;
+}
+.tesk1 .b {
+    color: red;
+}
+.task1 .c{
+    color: rgb(00, 00, 255);
+}
+.task1 .d{
+    color:#00ff00;
+}
+
+.task2 .rb{
+    font-size: 18px;
+}
+.task2 .ex{
+    color: purple;
+    font-size: 25px;
+    font-style: italic;
+    font-family: cursive;
+}
+.task3 .uc{
+    text-decoration: underline;
+    text-align: center;
+}
+.task3 .end{
+    text-align: end;
+  }
+  .task3 .oc{
+    text-decoration: overline;
+    text-align: center;
+  }
+  .task3 .il{
+    text-decoration: line-through;
+  }
+  .task3 .tu{
+    text-transform: uppercase;
+  }
+  .task3 .cn{
+    text-transform: capitalize;
+  }
+  .task3 .tl{
+    text-transform: lowercase;
+  }
+  .ab{
+    background-color: rgb(191, 191, 191);
+  }
+  .task44 .bc{
+    background-color: rgb(36, 51, 74);
+    text-align: center;
+    text-transform: capitalize;
+  }
+  .task44 .bc .p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+  }
+  .task44 .bo .t2{
+    color: red;
+    text-decoration: underline;
+  }
+  il{
+    text-decoration: line-through;
+    font-weight:bolder;
+  }
+  body .task99{
+    background-image: linear-gradient(
+      45deg,
+      #a86aa4 50%,
+      #cc6b8e 62%,
+      #f3a469 78%,
+      #f7c978 100%
+    );
+    background-repeat: no-repeat;
+    text-align: center;
+  }
